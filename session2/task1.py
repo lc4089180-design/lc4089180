@@ -1,0 +1,22 @@
+#Declare variables in Python to store your name, your age, your current city, your favorite food, and whether you have a Spotify subscription (True/False). Print the value and data type of each variable using the type() function.
+name = "Kavita" 
+
+age = 22 
+
+city = "Navsari" 
+
+favorite_food = "Pizza" 
+
+has_spotify = True  
+
+print ("Name:", name, "Type:", type(name)) 
+
+print ("Age:", age, "Type:", type(age)) 
+
+print ("City:", city, "Type:", type(city)) 
+
+print ("Favorite Food:", favorite_food, "Type:", type(favorite_food)) 
+
+print ("Spotify Subscription:", has_spotify, "Type:", type(has_spotify)) 
+
+ 
